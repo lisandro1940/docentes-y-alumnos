@@ -1,5 +1,5 @@
 # docentes-y-alumnos
-ivo cappeto
+Ivo Giuliano Cappetto
 lisandro Chavez
 marcos ceballos
 leonardo castañares
